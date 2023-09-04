@@ -10,7 +10,7 @@ The Power BI Super Store Report Project is designed to help users explore and ga
 
 The dataset used in this project can be found Kaggle - [here](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales). 
 
-## Iamge of Super Store Report  :
+## Super Store Report  :
 
 ![PhonePe Design](https://github.com/Ariharanjaiganesh/Power-BI-Projects/blob/main/Super%20Store%20Report/report%20iamge.png)
 
