@@ -27,12 +27,11 @@ Our HR Analytics Dashboard was built using Power BI, a powerful business intelli
 
 # HR Analytics Dashboard:
 
-[https://github.com/Ariharanjaiganesh/Power-BI-Projects/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20IMG.png]
+![HR DASHBOARD](https://github.com/Ariharanjaiganesh/Power-BI-Projects/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20IMG.png)
 
 ### Contact
 
 📧 Email: ariharanjaiganesh@gmail.com 
 
 🌐 LinkedIn: [linkedin.com/in/ariharanj](https://www.linkedin.com/in/ariharanj/)
-
 
